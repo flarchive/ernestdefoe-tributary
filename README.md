@@ -2,13 +2,21 @@
 
 > **Read-only archive of released versions of ernestdefoe/tributary.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/tributary) or the [upstream repository](https://github.com/ernestdefoe/tributary).
 
-**0** versions archived · Latest: [`v1.0.8`](https://github.com/flarchive/ernestdefoe-tributary/tree/archive/v1.0.8) · License: `MIT` · Flarum: `^2.0`
+**9** versions archived · Latest: [`v1.0.8`](https://github.com/flarchive/ernestdefoe-tributary/tree/archive/v1.0.8) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-09-13 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-tributary/tree/archive/v1.0.0) |
+| `v1.0.1` | 2026-09-14 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-tributary/tree/archive/v1.0.1) |
+| `v1.0.2` | 2026-09-15 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-tributary/tree/archive/v1.0.2) |
+| `v1.0.3` | 2026-09-16 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-tributary/tree/archive/v1.0.3) |
+| `v1.0.4` | 2026-09-16 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-tributary/tree/archive/v1.0.4) |
+| `v1.0.5` | 2026-09-17 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-tributary/tree/archive/v1.0.5) |
+| `v1.0.6` | 2026-09-19 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-tributary/tree/archive/v1.0.6) |
+| `v1.0.7` | 2026-10-05 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-tributary/tree/archive/v1.0.7) |
+| `v1.0.8` | 2026-10-05 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-tributary/tree/archive/v1.0.8) |
 
 Catalog entry: [packages/ernestdefoe-tributary.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-tributary.json)
 
